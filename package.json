@@ -1,0 +1,19 @@
+{
+  "name": "afo",
+  "version": "0.0.1",
+  "description": "This Package Helps Developers and Programmers to Run the Code Error Free and Brings Good luck to the code",
+  "main": "afo.js",
+  "scripts": {
+    "test": "afo"
+  },
+  "keywords": [
+    "afo",
+    "error"
+  ],
+  "author": "ANTS",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "colors": "^1.4.0"
+  }
+}
